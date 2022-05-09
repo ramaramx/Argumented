@@ -1,3 +1,1 @@
-# Argumented
-# Argumented
-# Argumented
+Argumented reality card
